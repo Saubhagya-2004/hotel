@@ -40,7 +40,7 @@
     "simplex-noise": "^4.0.3",
     "sonner": "^2.0.8",
     "tailwind-merge": "^2.6.2",
-    "three": "^0.187.0"
+    "three": "^0.180.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
